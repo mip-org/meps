@@ -18,6 +18,7 @@ See [MEP 1](meps/mep-0001.md) for when one is needed and how the process works.
 | [4](meps/mep-0004.md) | Inline script metadata | Draft |
 | [5](meps/mep-0005.md) | MLTBX interoperability | Draft |
 | [6](meps/mep-0006.md) | A command-line interface for mip | Draft |
+| [7](meps/mep-0007.md) | Running ephemeral tools (`mipx`) | Draft |
 
 ## Proposing a MEP
 
