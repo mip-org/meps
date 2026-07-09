@@ -15,6 +15,7 @@ See [MEP 1](meps/mep-0001.md) for when one is needed and how the process works.
 | [1](meps/mep-0001.md) | MEP purpose and process | Active |
 | [2](meps/mep-0002.md) | Project environments (`mip env`) | Draft |
 | [3](meps/mep-0003.md) | Run code in a project environment (`mip run`) | Draft |
+| [4](meps/mep-0004.md) | Inline script metadata | Draft |
 
 ## Proposing a MEP
 
