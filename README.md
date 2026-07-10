@@ -20,7 +20,7 @@ See [MEP 1](meps/mep-0001.md) for when one is needed and how the process works.
 | [6](meps/mep-0006.md) | A command-line interface for mip | Draft |
 | [7](meps/mep-0007.md) | Running ephemeral tools (`mipx`) | Draft |
 | [8](meps/mep-0008.md) | Environments (`mip env`, `mip activate`) | Draft |
-| [9](meps/mep-0009.md) | Declarative environments (`mip add`, `mip lock`, `mip sync`, `mip run`) | Draft |
+| [9](meps/mep-0009.md) | `uv`-style declarative projects (`mip add`, `mip lock`, `mip sync`, `mip run`) | Draft |
 
 ## Proposing a MEP
 
