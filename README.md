@@ -21,6 +21,7 @@ See [MEP 1](meps/mep-0001.md) for when one is needed and how the process works.
 | [7](meps/mep-0007.md) | Running ephemeral tools (`mipx`) | Draft |
 | [8](meps/mep-0008.md) | Environments (`mip env`) | Draft |
 | [9](meps/mep-0009.md) | `uv`-style declarative projects (`mip project`) | Draft |
+| [10](meps/mep-0010.md) | Packages published from their own GitHub repository | Draft |
 
 ## Proposing a MEP
 
